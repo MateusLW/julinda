@@ -1,19 +1,19 @@
 html{ 
     background-color: #ffc4d8;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bolder;
+
+
 }
 
-.pixel{
+h2{
     font-family: "Roboto", sans-serif;
     font-optical-sizing: auto;
     font-weight:normal;
     font-style:normal;
     font-variation-settings:"wdth" 100;
-    font-size: xx-large;
+    font-size:170%;
 }
 
-.pixel{
+h2{
     font-family: "Bytesized", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -23,5 +23,11 @@ h1 {
     font-family: "Barriecito", system-ui;
     font-weight: 400;
     font-style: normal;
-    font-size: xxx-large;
+    font-size:300%;
 }
+.centerimage{margin-left: 37%}
+.center{text-align: center;}
+
+
+
+  
